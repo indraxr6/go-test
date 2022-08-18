@@ -4,8 +4,8 @@ import "fmt"
 
 type Person struct {
 	name, addr string
-	//age, nik   int
-	//married    bool
+	age, nik   int
+	married    bool
 }
 
 func (data Person) greet() {

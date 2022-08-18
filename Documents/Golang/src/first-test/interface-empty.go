@@ -11,7 +11,6 @@ func any(x int) interface{} {
 	} else {
 		return 69
 	}
-
 }
 
 func main() {

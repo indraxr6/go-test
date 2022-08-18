@@ -21,7 +21,7 @@ func factorialRecursive(val int) int {
 func main() {
 	//result := factorialLoop(5)
 	//fmt.Println(result)
-	res := factorialRecursive(7)
+	res := factorialRecursive(4)
 	fmt.Println(res)
 
 }
